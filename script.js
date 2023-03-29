@@ -3,7 +3,7 @@
 function palindrome(str){
 	let i=0;
 	let j=str.length-1;
-	if(str===""){
+	if(str===" "){
 		return true
 	}
 
